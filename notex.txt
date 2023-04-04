@@ -1,0 +1,6 @@
+Use Face Recognition on a raspberry Pi
+https://pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/
+
+installing Face Recgnition on a raspberry Pi 2+
+https://gist.github.com/ageitgey/1ac8dbe8572f3f533df6269dab35df65
+
